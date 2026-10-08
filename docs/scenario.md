@@ -1,3 +1,122 @@
+# Village Knight – Game Scenario
+
+**Course:** Game Development  
+**Status:** Pre-production  
+**Date:** [October 9, 2026]
+
+---
+
+## 1. High Concept
+
+Village Knight is a 2D pixel-art game focused on story, character growth, and moral choices. The player takes the role of Leon, a teenage boy from a poor village family. When news spreads across the land of a great knights’ tournament — where the winner will become the king’s heir, the second-place contender will receive a large sum of gold, and the third will be granted a fertile farm — Leon decides to enter.
+
+He has no illusions of becoming the champion. His real goal is to reach at least third place so he can pay for his mother’s medical treatment and save his younger siblings from hunger. The game tells the story of an underdog who must face not only skilled opponents, but also the temptations of power and difficult moral questions.
+
+---
+
+## 2. Setting and Tone
+
+The story takes place in a land inspired by medieval Europe. The villages are simple, built of stone and wood, conveying both warmth and the harshness of rural life. In contrast, the tournament grounds are filled with colorful banners, noble tents, and the noise of competition.
+
+The overall tone mixes warmth and emotional weight. While the game contains hopeful and human moments, it does not shy away from class inequality, the cruelty of competition, and the lure of power.
+
+---
+
+## 3. Protagonist: Leon
+
+Leon is a teenager from a small, remote village. His father died years ago, forcing him to take responsibility for his family at a young age. His mother has fallen ill from overwork, and his younger siblings depend on him.
+
+At the beginning of the game, Leon is inexperienced but determined. He has natural talent but no formal training. His greatest strengths are his pure motivation and his persistence. Through the player’s choices, Leon will either remain true to the principles of honor or gradually compromise them under the pressure of ambition and the competitive world he enters.
+
+---
+
+## 4. Story Structure (Three Acts)
+
+### Act 1 – Roots and Decision
+The game begins in Leon’s village. The player is introduced to the family’s hard life, the mother’s illness, and their financial struggles. News of the great tournament arrives. Leon’s friends mock him, saying a farmer’s place is in the fields. Some elders strongly oppose his decision, while a few quietly encourage him.
+
+Leon trains alone in the fields using a wooden dummy he built himself. During one of these training sessions, he meets Alden, a wandering swordsman and former legendary warrior who now seeks peace in nature after the wars have ended. Alden is initially indifferent, but gradually recognizes Leon’s sincere motivation and agrees to train him. The act ends with Leon’s decision to leave the village and travel to the tournament.
+
+### Act 2 – Trials and Choices
+Leon enters the world of knights and meets the main rivals. This act focuses on moral choices. One of the most important involves Marco, a young man who was attacked by bandits, lost everything, and entered the tournament to pay for his injured wife’s treatment. Whether the player helps Marco or ignores him directly affects Sir Ludovic’s opinion and Leon’s relationship with Alden.
+
+During this act, Leon also confronts Cedric’s arrogance, Gareth’s ruthlessness, Ludovic’s strict sense of honor, and Lyra’s fight for justice.
+
+### Act 3 – Final Trial
+Leon reaches the later stages of the tournament. Previous choices now show their consequences. Alden may stand by Leon in critical moments or remain distant. The endings are determined by both Leon’s performance in the tournament and the moral path the player has chosen.
+
+---
+
+## 5. Key Characters
+
+**Alden**  
+A former legendary warrior who grew tired of violence after peace was established and now travels in search of quiet. He serves as Leon’s mentor and the moral compass of the story. The level of his final support depends on the player’s choices.
+
+**Lord Cedric**  
+A proud nobleman who believes common people have no place among knights. He represents class arrogance and contempt.
+
+**Gareth**  
+A ruthless former mercenary who cares only about results. Honor means nothing to him.
+
+**Sir Ludovic**  
+A self-made knight who rose from the lower classes through merit, starting as a common soldier. He believes in true honor. If he sees Leon act with integrity (especially by helping Marco), he respects him and becomes a positive role model.
+
+**Lady Lyra**  
+A woman whose husband was imprisoned and whose lands were confiscated for resisting unjust taxes imposed by the nobility. She learned to fight in order to make her voice heard by the king. Though less experienced than some rivals, she possesses strong will and determination.
+
+**Marco** (Supporting Character)  
+A young man who lost everything after a bandit attack. His wife was injured, and he entered the tournament to afford her treatment and care for his young son. The choice of whether to help him is one of the key moral moments in the game.
+
+---
+
+## 6. Core Themes
+
+- Pure motivation versus ambition  
+- The true meaning of honor  
+- Class inequality  
+- Character growth through difficult choices  
+- Family and responsibility  
+
+---
+
+## 7. Player Choices and Consequences
+
+Player decisions are not merely cosmetic. Helping Marco, the way Leon treats Lyra, resisting or giving in to the temptation of power, and staying true to one’s principles all affect character relationships, the support of Alden and Ludovic, and ultimately the ending of the game.
+
+---
+
+## 8. Visual Style and Overall Feel
+
+The game uses 2D pixel art inspired by titles such as Stardew Valley, but with a more European and slightly more dramatic atmosphere. The focus is on character writing, atmosphere, and a meaningful sense of progression.
+
+---
+
+## 9. Core Gameplay Mechanics
+
+The game combines narrative sections, training, and combat.
+
+In the village section, the player learns the controls through timing-based mini-games (sword practice with a wooden dummy, precision, and endurance).
+
+The main combat system consists of one-on-one duels viewed from the side. Core elements include light attack, heavy attack, timed blocking, dodging, and a simple stamina bar. Each rival has distinct attack patterns that the player can learn and counter.
+
+Moral choices also function as a gameplay system and influence relationships and later situations.
+
+---
+
+## 10. Technical Details and Scope
+
+- **Engine:** Godot 4  
+- **Art Style:** 2D Pixel Art  
+- **University Beta Platform:** Windows (and possibly Web)  
+- **Final Target Platforms:** Android (Google Play) and Desktop  
+
+The beta version will focus on a complete Act 1, a significant portion of Act 2, the core combat system, and several key rival encounters, so the game feels like a coherent and presentable experience. Remaining content will be expanded in the full version.
+
+
+
+
+
+
 سناریوی بازی
 
 عنوان موقت: شوالیه‌ی روستا
