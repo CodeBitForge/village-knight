@@ -1,5 +1,43 @@
 # village-knight
-A 2D pixel-art story-driven game about a village boy entering a knights tournament
+**Status:** Pre-production (Scenario & Design Phase)
+
+A 2D pixel-art story-driven game focused on narrative, character growth, and meaningful moral choices.  
+Players take the role of Leon, a young village boy who enters a grand knights’ tournament to save his family.
+
+---
+
+## About the Project
+
+This repository is part of a university Game Development course project.
+
+- **Engine:** Godot 4
+- **Art Style:** 2D Pixel Art
+- **Beta Target Platform:** Windows
+- **Final Target Platform:** Android (Google Play) + Desktop
+
+---
+
+## Current Structure
+
+
+---
+
+## Current Progress
+
+- [x] Core concept and story framework
+- [x] Main and supporting characters design
+- [x] Three-act story structure
+- [x] High-level gameplay mechanics
+- [ ] Start of implementation in Godot
+
+---
+
+## Note
+
+This project is currently in the pre-production phase. All content is confidential.
+
+
+
 
 
 **عنوان فارسی:** شوالیه‌ی روستا  
