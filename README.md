@@ -1,6 +1,6 @@
 # village-knight
 A 2D pixel-art story-driven game about a village boy entering a knights tournament
-# Village Knight
+
 
 **عنوان فارسی:** شوالیه‌ی روستا  
 **وضعیت:** در حال توسعه (فاز سناریو و پیش‌تولید)
